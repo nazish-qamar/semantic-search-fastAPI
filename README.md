@@ -1,2 +1,3 @@
 # ml-fastAPI
-### Command for running the API: uvicorn main:app --reload
+## Command for running the API: 
+### uvicorn main:app --reload
